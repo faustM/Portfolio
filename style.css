@@ -1,104 +1,107 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
-
-body {
-  margin: 0;
-  padding: 0;
-}
-
-header {
-  justify-content: space-between;
-  width: 100%;
-  display: flex;
-  padding: 3%;
-}
-
-main {
-  height: 110vh;
-  width: 100vw;
-  background-color: #191765;
-}
-
-.logo {
-  margin-left: 15%;
-  color: blanchedalmond;
-}
-
-.humbuger {
-  margin-right: 15%;
-}
-
-img {
-  color: black;
-}
-
-.contain {
-  width: 85%;
-  display: flex;
-  place-items: center;
-  margin-left: 10%;
-  text-align: center;
-}
-
-.item1 {
-  color: blue;
-}
-
-.item2 {
-  color: white;
-}
-
-.item3 {
-  color: white;
-  font-family: Roboto, sans-serif;
-  font-size: 20px;
-  font-weight: 400;
-  line-height: 28px;
-  letter-spacing: 0;
-  text-align: center;
-}
-
-.skills-list {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-}
-
-.skill {
-  color: white;
-}
-
-.skill-title {
-  color: blue;
-}
-
-.icones {
-  width: 30px;
-  height: 20px;
-  display: flex;
-  margin: -4px 0 0 -25px;
-  margin-left: 30%;
-  font-family: 'Roboto', sans-serif;
-}
-
-.eli19 {
-  position: absolute;
-  width: 80px;
-  height: 80px;
-  left: 339px;
-  top: 495px;
-  background: #edecff;
-  filter: blur(50px);
-}
-
-.eli18 {
-  position: absolute;
-  width: 160px;
-  height: 160px;
-  left: -106px;
-  top: 0;
-  background: #edecff;
-  filter: blur(50px);
-}
-
-hr {
-  width: 80%;
-}
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    section {
+        justify-content: space-between;
+        width: 100%;
+        display: flex;
+        padding: 3%;
+    }
+    
+    main {
+        height: 150vh;
+        width: 100vw;
+        background-color: #191765;
+    }
+    
+    .logo {
+        margin-left: 15%;
+        color: blanchedalmond;
+    }
+    
+    .humbuger {
+        margin-right: 15%;
+    }
+    
+    img {
+        color: black;
+    }
+    
+    .contain {
+        width: 85%;
+        display: flex;
+        place-items: center;
+        margin-left: 10%;
+        text-align: center;
+    }
+    
+    .item1 {
+        color: blue;
+    }
+    
+    .item2 {
+        color: white;
+    }
+    
+    .item3 {
+        color: white;
+        font-family: Roboto, sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: 0;
+        text-align: center;
+    }
+    
+    .skills-list {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .skill {
+        color: white;
+    }
+    
+    .skill-title {
+        color: blue;
+    }
+    
+    .eli19 {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        left: 339px;
+        top: 495px;
+        background: #edecff;
+        filter: blur(50px);
+    }
+    
+    .eli18 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        left: -106px;
+        top: 0;
+        background: #edecff;
+        filter: blur(50px);
+    }
+    
+    hr {
+        width: 80%;
+    }
+    
+    .icones {
+        display: flex;
+        margin-left: 14%;
+        padding: 8%;
+        list-style: none;
+        width: 40%;
+        font-size: 25%;
+    }
+    
+    ul li {
+        margin-left: 8%;
+    }
