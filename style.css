@@ -296,6 +296,9 @@ ul li {
   background: #edecff;
   filter: blur(50px);
 }
+hr {
+  margin-bottom: 15%;
+}
 
 /* { */
 
