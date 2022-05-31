@@ -4,6 +4,8 @@ body {
   margin: 0;
   padding: 0;
   background-color: #191765;
+  background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png);
+  background-position-x: -250px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -226,7 +228,7 @@ ul li {
   text-align: center;
   width: 70%;
   list-style: none;
-  border-color: #EDECFF ;
+  border-color: #edecff;
 }
 
 .white {
@@ -235,7 +237,7 @@ ul li {
   text-decoration: none;
   padding: 1rem;
   border-right: solid;
-  border-right-color:#555555;;
+  border-right-color: #555;
   border-right-width: 1%;
   width: 71px;
   height: 20px;
@@ -256,12 +258,12 @@ ul li {
 .about-project {
   width: 327px;
   height: 204px;
-  font-family: 'Inter' sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
-  color: #DCDCE8;
+  color: #dcdce8;
   margin-left: 6.4%;
   align-items: center;
 }
@@ -279,10 +281,10 @@ ul li {
   flex-direction: row;
   align-items: center;
   padding: 12px;
-  background:#7D73FC;
+  background: #7d73fc;
   margin-left: 6.4%;
   font-family: "Roboto", sans-serif;
-  color: #EDECFF;
+  color: #edecff;
 }
 
 .eli20 {
@@ -294,11 +296,9 @@ ul li {
   background: #edecff;
   filter: blur(50px);
 }
-body {
-  background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png);
-  background-position-x: -300px;
-}
 
- /* { */
-  /* background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png); */
+/* { */
+
+/* background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png); */
+
 /* } */
