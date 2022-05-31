@@ -153,7 +153,7 @@ ul li {
 }
 
 .project {
-  display: flex;
+  display: grid;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
@@ -185,10 +185,10 @@ ul li {
 
 .recent {
   color: #9390ff;
-  font-family: "Roboto", sans-serif;
-  font-size: 57px;
-  font-weight: 700;
-  line-height: 50px;
+  font-family: Roboto, sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 52px;
 }
 
 .work {
@@ -226,6 +226,7 @@ ul li {
   text-align: center;
   width: 70%;
   list-style: none;
+  border-color: #EDECFF ;
 }
 
 .white {
@@ -234,7 +235,8 @@ ul li {
   text-decoration: none;
   padding: 1rem;
   border-right: solid;
-  border-right-color: #5555;
+  border-right-color:#555555;;
+  border-right-width: 1%;
   width: 71px;
   height: 20px;
   font-family: 'Inter'sans-serif;
@@ -245,22 +247,23 @@ ul li {
 
 .tools-list li {
   list-style-type: none;
+  margin-left: -1px;
 
   /* padding: 10px;
   border-left: 1px solid #5555; */
 }
 
 .about-project {
-  width: 87.2%;
-  font-family: Inter, sans-serif;
+  width: 327px;
+  height: 204px;
+  font-family: 'Inter' sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
-  color: #dcdce8;
+  color: #DCDCE8;
   margin-left: 6.4%;
   align-items: center;
-  background-image: url(Ellipse22@2xpng);
 }
 
 .image {
@@ -270,16 +273,16 @@ ul li {
 }
 
 .btn {
-  width: 23.7%;
   height: 48px;
   margin-bottom: 40px;
   margin-top: 24px;
   flex-direction: row;
   align-items: center;
   padding: 12px;
-  background: #7d73fc;
+  background:#7D73FC;
   margin-left: 6.4%;
   font-family: "Roboto", sans-serif;
+  color: #EDECFF;
 }
 
 .eli20 {
@@ -291,7 +294,11 @@ ul li {
   background: #edecff;
   filter: blur(50px);
 }
-
-.contb {
+body {
   background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png);
+  background-position-x: -300px;
 }
+
+ /* { */
+  /* background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png); */
+/* } */
