@@ -139,6 +139,8 @@ img {
 
 hr {
   width: 80%;
+  margin-bottom: 15%;
+  height: auto;
 }
 
 .icones {
@@ -296,9 +298,7 @@ ul li {
   background: #edecff;
   filter: blur(50px);
 }
-hr {
-  margin-bottom: 15%;
-}
+
 
 /* { */
 
