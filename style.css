@@ -298,6 +298,11 @@ ul li {
   background: #edecff;
   filter: blur(50px);
 }
+.coll {
+  color: #dcdce8;
+  text-decoration: none;
+  height: 100%;
+}
 
 /* { */
 
