@@ -298,12 +298,19 @@ ul li {
   background: #edecff;
   filter: blur(50px);
 }
+
 .coll {
   color: #dcdce8;
   text-decoration: none;
   height: 100%;
 }
 
+.task {
+  color:#fff;
+  text-decoration: none;
+  height: fit-content;
+  padding: 24px;
+}
 /* { */
 
 /* background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png); */
