@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+    crossorigin="anonymous" />
     <title> my portfolio</title>
 </head>
 
@@ -172,18 +175,42 @@
       or a project that needs coding.
       I'd love to help with it
     </p>
-  
-  </div> 
-  <div class="coll">
-    <ul>
-      <li>project</li>
-      <li>about-us</li>
-      <li>home</li>
-    </ul>
-  </div>
-  <div class="task">
-    <p1> I love  codding wish to all developers the best</p1>
-  </div>
+  <form action="https://formspree.io/f/mgedkakg" method="POST" class="prjct-contact-form">
+    <input name="fullname" id="fullname" class="wrt" maxlength="30" type="text" placeholder=" Enter your name"
+      required>
+    <input name="email" id="email" class="wrt" type="email" placeholder=" Enter your mail" required>
+    <small class="error"></small>
+    <textarea name="msg" id="msg" class="wrt" maxlength="500" placeholder=" Enter your text" required></textarea>
+    <button class="btn frm" type="submit">Send</button>
+    <small class="error"></small>
+  </form>
+</div> 
+<footer class="final">
+  <ul class="icon1 ">
+    <li class="icon-item">
+      <a href="#">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+    <li class="icon-item">
+      <a href="#">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li class="icon-item">
+      <a href="#">
+        <i class="fab fa-angellist"></i>
+      </a>
+    </li>
+    <li class="icon-item">
+      <a href="#">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  </ul>
+  <a class="mail" href="#">makutanof@gmail.com</a>
+</footer>
+</main>
 </body>
 
 </html>
