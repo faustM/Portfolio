@@ -113,9 +113,9 @@ img {
 
 .eli19 {
   position: absolute;
-  width: 60px;
+  width: 80px;
   height: 80px;
-  left: 290px;
+  left: 339px;
   top: 495px;
   background: #edecff;
   filter: blur(50px);
@@ -276,14 +276,12 @@ ul li {
   margin-top: 24px;
   flex-direction: row;
   align-items: center;
-  padding: 12px;
   background: #7d73fc;
   margin-left: 6.4%;
   font-family: "Roboto", sans-serif;
   color: #edecff;
   width: 100px;
   padding: 15px 0;
-  margin-top: 20px;
 }
 
 .eli20 {
@@ -295,6 +293,7 @@ ul li {
   background: #edecff;
   filter: blur(50px);
 }
+
 .coll {
   color: #dcdce8;
   text-decoration: none;
@@ -325,13 +324,13 @@ ul li {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  
 }
 
 .mail {
-  margin: 12%;
-  width: 50%;
-  
+  margin-left: 100px;
+  padding-bottom: 30px;
+  color: white;
+  text-decoration: none;
 }
 
 .icon1 {
@@ -339,7 +338,6 @@ ul li {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  
 }
 
 .icn {
@@ -389,10 +387,6 @@ ul li {
   display: none;
 }
 
-/* .item3 {
-  width: 100%;
-} */
-
 .header {
   padding: 1em 4em;
 }
@@ -402,7 +396,7 @@ ul li {
 }
 
 .prjct-contact-form {
-  width: calc(100vw - 48px); 
+  width: calc(100vw - 48px);
   display: flex;
   gap: 20px;
   flex-direction: column;
@@ -421,20 +415,6 @@ ul li {
   width: 92%;
 }
 
-.btn frm {
-  margin-top: -60px;
-  align-self: center;
-}
-
-.final {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  height:  120px;
-  width: 92%;
-  gap: 20px;
-}
-
 .icones-2 {
   display: flex;
   flex-direction: row;
@@ -450,19 +430,19 @@ ul li {
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 8%;
+  padding-left: 100px;
+  margin-bottom: -10px;
   height: 60px;
   list-style: none;
   width: 40%;
-  margin: -20px;
 }
 
-.mail {
-  margin-top: -30px;
-  text-align: center;
+.bt {
+  margin-bottom: 40px;
+  width: 100px;
+  padding: 15px 0;
+  background: #7d73fc;
   color: #fff;
-  padding-left: 24px;
-  text-decoration: none;
 }
 
 /* { */
