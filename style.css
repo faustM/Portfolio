@@ -97,12 +97,6 @@ img {
   text-align: left;
 }
 
-.border-bottom {
-  width: 100%;
-
-  /* padding-left: 15%; */
-}
-
 .skill {
   color: white;
   height: 15.483870506286621px;
@@ -119,9 +113,9 @@ img {
 
 .eli19 {
   position: absolute;
-  width: 80px;
+  width: 60px;
   height: 80px;
-  left: 339px;
+  left: 290px;
   top: 495px;
   background: #edecff;
   filter: blur(50px);
@@ -287,6 +281,9 @@ ul li {
   margin-left: 6.4%;
   font-family: "Roboto", sans-serif;
   color: #edecff;
+  width: 100px;
+  padding: 15px 0;
+  margin-top: 20px;
 }
 
 .eli20 {
@@ -320,12 +317,6 @@ ul li {
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
-}
-
-.btn {
-  width: 160px;
-  padding: 15px 0;
-  margin-top: 20px;
 }
 
 .final {
@@ -365,7 +356,6 @@ ul li {
 }
 
 .border-bottom {
-  border-bottom: 2px solid rgb(81, 80, 104);
   width: 50%;
 }
 
@@ -399,9 +389,9 @@ ul li {
   display: none;
 }
 
-.item3 {
+/* .item3 {
   width: 100%;
-}
+} */
 
 .header {
   padding: 1em 4em;
@@ -449,6 +439,17 @@ ul li {
   display: flex;
   flex-direction: row;
   align-items: center;
+  padding: 4%;
+  height: 60px;
+  list-style: none;
+  width: 40%;
+  margin: -20px;
+}
+
+.icones-6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
   padding: 8%;
   height: 60px;
   list-style: none;
@@ -463,6 +464,7 @@ ul li {
   padding-left: 24px;
   text-decoration: none;
 }
+
 /* { */
 
 /* background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png); */
