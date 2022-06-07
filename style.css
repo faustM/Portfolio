@@ -410,15 +410,58 @@ ul li {
 .btn:disabled {
   background: #9390ff;
 }
-.prjct-contact-form {
-width: calc(100vw - 48px); 
-margin-left:24px;
-display: grid;
-gap: 15px;
-}
-.wrt {
-  
 
+.prjct-contact-form {
+  width: calc(100vw - 48px); 
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  margin: 24px;
+  margin-top: -70px;
+}
+
+.wrt {
+  height: 50px;
+  width: 92%;
+}
+
+.msg {
+  height: 120px;
+  width: 92%;
+}
+
+.btn frm {
+  margin-top: -60px;
+  align-self: center;
+}
+
+.final {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height:  120px;
+  width: 92%;
+  gap: 20px;
+}
+
+.icones-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8%;
+  height: 60px;
+  list-style: none;
+  width: 40%;
+  margin: -20px;
+}
+
+.mail {
+  margin-top: -30px;
+  text-align: center;
+  color: #fff;
+  padding-left: 24px;
+  text-decoration: none;
 }
 /* { */
 
