@@ -1,32 +1,63 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Portfolio
 
-# 
-> this project will display "my postpolio"
+>The project is to built our portfolio because each 
+Web Designer must have his portfolio.To describe what he did as project and who to contact him.  
+
+
 ## Built With
-- html
+
+- Html
 - css
+
+
+## Live Demo (if available)
+
+
+
+
 ## Getting Started
-To get a local copy up and running follow these simple example steps.
-step1:copy the link to the repo on github
-step2:run `git clone "link"`
-### Prerequisites
-1. have vscode installed(or any other editer)
-2. have chrome installed (or any other browser)
+
+-Before you have to install Git App  and if you dont have it you can download it via [https://git-scm.com/downloads]
+
+-After you have to create a repo in Git and clone it
+by tapping **git clone git@github.com:DanUshindi/portfolio.git**
+-Then you can create a new branch and begin to work on it
+
 ### Usage
-to use this project double clik on index.html
+
+This website is used for refrence concerning my skills and experience as a programmer.
+
 ## Authors
-:bust_in_silhouette: **Author1**
-- GitHub: [@faustM]
-- Twitter: [@Faustin Makutano]
-- LinkedIn: [faustin makutano]
-## :handshake: Contributing
+
+👤 **Author1**
+
+- GitHub: [@githubhandle]()
+- Twitter: [@twitterhandle]()
+- LinkedIn: [LinkedIn]()
+
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
+
+Feel free to check the [https://github.com/notifications?query=reason%3Areview-requested](../../issues/).
+
 ## Show your support
-Give a :star:️ if you like this project!
+
+Give a ⭐️ if you like this project!
+
 ## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-## :memo: License
+
+- Micro-verse
+
+## 📝 License
+
 This project is [MIT](./MIT.md) licensed.
+
+## Contributors
+
+- Misheck livingi https://github.com/misheck12
+- Ali https://github.com/aliatayee
