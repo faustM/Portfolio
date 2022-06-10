@@ -564,14 +564,14 @@ body {
 .wrt {
   margin-bottom: 25px;
   line-height: 24px;
-  color:#81818c;
-  background:white;
-  padding:6px 0px;
+  color: #81818c;
+  background: white;
+  padding: 6px 0;
 }
 
 .name-label1 {
   width: 329px;
-  padding: 6px 0px;
+  padding: 6px 0;
 }
 
 .wrt1 {
@@ -582,7 +582,8 @@ body {
   margin-bottom: 25px;
   font-family: "Inter", sans-serif;
   font-size: 5px;
-    /* height: 25px; 
+
+  /* height: 25px;
   margin-bottom: 25px;
   font-family: "Inter", sans-serif;
   font-size: 5px;
@@ -793,7 +794,6 @@ ul li a {
 
 /* The tablet design */
 @media (min-width: 600px) {
-
   .hamburger {
     display: none;
   }
@@ -1064,8 +1064,8 @@ ul li a {
   .btn:disabled {
     background: #9390ff;
   }
-
 }
+
 /* The laptop design */
 @media (min-width: 992px) {
   .child {
