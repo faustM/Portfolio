@@ -437,14 +437,31 @@ ul li {
   width: 40%;
 }
 
+.icones-6 li a img {
+  width: 18px;
+  transition: 0.8s;
+}
+
+.icones-6 li a img:hover {
+  width: 22px;
+}
+
 .bt {
   margin-bottom: 40px;
   width: 100px;
   padding: 15px 0;
   background: #7d73fc;
   color: #fff;
+  transition: 1s;
 }
 
+.bt:hover {
+  cursor: pointer;
+  width: 110px;
+  background: #fff;
+  color: #7d73fc;
+  font-weight: 400;
+}
 /* { */
 
 /* background-image: url(images/icones/portfolio\ background\ shapes\ mobile@2x.png); */
