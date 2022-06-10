@@ -796,6 +796,7 @@ ul li a {
 
 /* The tablet design */
 @media (min-width: 600px) {
+
   .hamburger {
     display: none;
   }
@@ -1065,6 +1066,7 @@ ul li a {
 
   .btn:disabled {
     background: #9390ff;
+  }
     
 /* .prjct-form {
   display: grid;
