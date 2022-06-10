@@ -564,12 +564,12 @@ body {
 .wrt {
   margin-bottom: 25px;
   line-height: 24px;
-  color: #81818c;
-  background: white;
+  color:#81818c;
+  background:white;
   padding:6px 0px;
 }
 
-.name-label1{
+.name-label1 {
   width: 329px;
   padding: 6px 0px;
 }
@@ -582,9 +582,6 @@ body {
   margin-bottom: 25px;
   font-family: "Inter", sans-serif;
   font-size: 5px;
-  
-  
-  
     /* height: 25px; 
   margin-bottom: 25px;
   font-family: "Inter", sans-serif;
@@ -1067,13 +1064,8 @@ ul li a {
   .btn:disabled {
     background: #9390ff;
   }
-    
-/* .prjct-form {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 3px; */
-}
 
+}
 /* The laptop design */
 @media (min-width: 992px) {
   .child {
