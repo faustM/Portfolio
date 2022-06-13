@@ -2,7 +2,7 @@
 
 # Portfolio
 
->The project is to built our portfolio because each 
+>The project is to deploy my portfolio 
 Web Designer must have his portfolio.To describe what he did as project and who to contact him.  
 
 
@@ -33,9 +33,9 @@ This website is used for refrence concerning my skills and experience as a progr
 
 👤 **Author1**
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@githubhandle](https://github.com/faustM)
+- Twitter: [@twitterhandle](https://twitter.com/FaustinMakutano)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/faustin-makutano-64525a232/)
 
 
 
