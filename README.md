@@ -2,8 +2,8 @@
 
 # Portfolio
 
->The project is to deploy my portfolio 
-Web Designer must have his portfolio.To describe what he did as project and who to contact him.  
+>The project is to deploy
+This is a website that describes me and displays a collection of my professional projects with source code and live demo. It showcases what I bring as software developer such as building products,features and websites . 
 
 
 ## Built With
@@ -43,8 +43,11 @@ This website is used for refrence concerning my skills and experience as a progr
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/notifications?query=reason%3Areview-requested](../../issues/).
+Feel free to check the [https://faustm.github.io/Portfolio/)].
 
+
+## find the project here
+Fin out my portofolio [here](https://faustm.github.io/Portfolio/)
 ## Show your support
 
 Give a ⭐️ if you like this project!
